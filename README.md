@@ -8,11 +8,11 @@ This repository contains the data analysis and visualization project for analyzi
 
 https://data.worldbank.org/indicator/SP.POP.TOTL
 
-## Programming language used
+## Programming Language Used
 
 - Python
 
-## Python libraries used
+## Python Libraries Used
 
 - Matplotlib
 - Pandas
