@@ -1,4 +1,4 @@
-# Visualizing Population Growth Percentage: Analyzing Categorical and Continuous Data
+# Analyzing Categorical and Continuous Data - Visualizing Population Growth Percentage
 
 ## Overview
 
